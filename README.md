@@ -1,1 +1,1 @@
-# Sample-sales-report-Data-analysis
+# Sales analysis project using Python and Pandas
